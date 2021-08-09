@@ -25,6 +25,6 @@ A selection of our finest free range, rare-breed Tamworth pork, conveniently siz
   <li>1-1.2kg Roasting Joint</li>
   <li>4 Thick cut pork chops</li>
   <li>500g Diced Pork</li>
-  <li>500g Minced Pork</li>
-  <li>2 Packs of sausages</li>
+  <li>500g Pork Mince</li>
+  <li>2 Packs of 6 Finest Gourmet Sausages</li>
 </ul>

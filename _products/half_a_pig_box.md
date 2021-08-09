@@ -7,7 +7,7 @@ description: Outdoor raised, rare breed Tamworth pork.
 category: pork
 images:
  - path: /images/products/half_pig/cuts.jpg
- options:
+options:
   - name: Delivery date
     options:
       - 18th August

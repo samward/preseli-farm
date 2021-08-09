@@ -8,5 +8,4 @@ images:
  - path: /images/products/6_eggs/main.jpg
 ---
 
-They don't get any fresher than this
-
+Fresh from our happy hens
