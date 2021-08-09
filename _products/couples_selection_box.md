@@ -10,16 +10,16 @@ images:
 options:
   - name: Delivery date
     options:
-      - 16th November
+      - 18th August 2021
+      - 16th November 2021
       - 18th May 2022
   - name: Preferred joint
     options:
       - Leg
       - Loin
-      - Spare rib
 ---
 
-A selection of our finest free range, rare-breed Tamworth pork, conveniently sized for seven generous meals for two.
+A selection of our finest free range, rare-breed Tamworth pork, conveniently sized for seven generous meals for two.  Delivery available nationwide from £12.
 
 <ul>
   <li>1-1.2kg Roasting Joint</li>
