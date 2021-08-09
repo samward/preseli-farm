@@ -10,11 +10,12 @@ images:
 options:
   - name: Delivery date
     options:
-      - 10th August
+      - 16th November
+      - 18th May 2022
   - name: Preferred joint
     options:
-      - Belly
       - Leg
+      - Loin
       - Spare rib
 ---
 
