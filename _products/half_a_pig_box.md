@@ -5,6 +5,7 @@ title: Half pig Butcher's Box
 subtitle: 100% free range, rare-breed Tamworth pork.
 description: Outdoor raised, rare breed Tamworth pork.
 category: pork
+weight: 20000
 images:
  - path: /images/products/half_pig/cuts.jpg
 options:

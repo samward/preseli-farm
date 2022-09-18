@@ -8,6 +8,7 @@
          data-item-name="{{ page.title }}"
          data-item-price="{{ page.price }}"
          data-item-image="{{ page.images.first.path }}"
+         data-item-weight="{{ page.weight }}"
          data-item-url="{{site.base_url}}{{ page.url }}"
          data-item-description="{{ page.description }}"
          {% for option in page.options %}
