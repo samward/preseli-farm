@@ -3,6 +3,7 @@ price: 39
 sku: couples_pork
 title: Couples pork selection
 category: pork
+weight: 15
 subtitle: Smaller cuts of pork, conveniently packaged
 description: A selection of free range pork cuts and joints, suitable for two.
 images:
