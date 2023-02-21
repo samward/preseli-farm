@@ -11,7 +11,7 @@ images:
 options:
   - name: Delivery date
     options:
-      - 7th October
+      - 25th Feb 2023
 ---
 
 Approximately 18-20kg of outdoor raised Tamworth pork.  Professionally butchered and including packs of the finest gourmet sausages. All items are vacuum packed for freshness and ready for the freezer. Includes mainland UK delivery.
